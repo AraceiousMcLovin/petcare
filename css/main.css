@@ -73,3 +73,25 @@ h1, h2{
     width: 100%;
     left: 0;
 }
+
+
+#clinica{
+    display: flex;
+    align-items: center;
+    padding: 30px 80px;
+}
+
+.tituloClinica{
+    margin: 0px 0px 40px 0px;
+}
+
+
+
+ul{
+    list-style-type: disc;
+    margin: 10px;
+    padding: 0px 30px 40px; 
+    line-height: 185%;
+    position: relative;
+}
+
