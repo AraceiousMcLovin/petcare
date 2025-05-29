@@ -74,6 +74,7 @@ h1, h2{
     left: 0;
 }
 
+
 /* Configurações da tela clinica */
 #clinica{
     display: flex;
@@ -211,4 +212,5 @@ ul{
     color: #FF9A6C;
     text-decoration: none;
 }
+
 
