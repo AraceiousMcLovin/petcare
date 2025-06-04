@@ -64,8 +64,6 @@ h1, h2{
     padding: 16px 32px;
     text-underline-offset: 5px;
 }
-
-
 .absolute{
     position: absolute;
     bottom: -10px;
